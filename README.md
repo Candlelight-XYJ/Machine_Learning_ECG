@@ -1,7 +1,7 @@
 # Machine_Learning_ECG
 A Project Using Machine Learning Method to Mining ECG Data
 
-#### 文件说明
+## 1.文件说明
 **rdata.m：** matlab程序，用于解析从MIT-BIH下载得到的心电数据
 
 **注释.txt：** 心脏疾病类型及其对应的数字/字母
